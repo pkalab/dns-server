@@ -1,0 +1,7 @@
+/server
+/dnscli
+/storage/
+config.yaml
+test-config.yaml
+
+.opencode/
